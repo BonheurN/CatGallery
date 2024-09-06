@@ -15,4 +15,3 @@ Checkboxes: Describe your cat’s personality by checking "loving," "lazy," or "
 Text input: Add a URL to your favorite cat photo and submit it.
 <img width="301" alt="cats" src="https://github.com/user-attachments/assets/c451ad52-160d-4171-8185-cc7555d6ffc5">
 <img width="211" alt="cat" src="https://github.com/user-attachments/assets/a1da6644-89e3-4176-a85d-16c8dc019b8d">
-![cat](https://github.com/user-attachments/assets/8b7fdcc7-53d2-4792-abb0-423018b5bec6)
